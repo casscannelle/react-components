@@ -1,8 +1,7 @@
 import React from 'react';
 
-
 const Welcome =()=>{
-  return <div>Hello World Component</div>
+  return <div>Hello World (2)</div>
   
 }
 
