@@ -12,18 +12,18 @@ function App (){
     
   
   return (
-    <div ClassName="App">
+    <div className="App">
 
-      <div ClassName="header">Hello World (1)</div>
-      <div ClassName="body"><Welcome /></div>
-      <div ClassName="text">Hello World (3)</div>
-      <div ClassName="paragraph">Hello World (4)</div>
-      <div ClassName="quote">Hello World (5)</div>
-      <div ClassName="note"><OlaMundo /></div>
-      <div ClassName="function">{bodyText}</div>
-      <div ClassName="input"> {titleText}</div>
-      <div ClassName="container" id="container"><button onClick={Hello}>Clique Aqui</button></div>
-      <div ClassName="footer">Hello World (10)</div>
+      <div className="header">Hello World (1)</div>
+      <div className="body"><Welcome /></div>
+      <div className="text">Hello World (3)</div>
+      <div className="paragraph">Hello World (4)</div>
+      <div className="quote">Hello World (5)</div>
+      <div className="note"><OlaMundo /></div>
+      <div className="function">{bodyText}</div>
+      <div className="input"> {titleText}</div>
+      <div className="container" id="container"><button onClick={Hello}>Clique Aqui</button></div>
+      <div className="footer">Hello World (10)</div>
 
 
     </div>
